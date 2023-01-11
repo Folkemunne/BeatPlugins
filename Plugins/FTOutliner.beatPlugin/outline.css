@@ -399,7 +399,7 @@ flex-basis: 20px !important;
 	background-color: var(--pageBackground) !important;
 	color: white; 
 
-	font-size: calc(var(--baseFontSize) * 1.1);
+	font-size: calc(var(--baseFontSize) * 1.8);
 	text-align: center;
 	/* line-height: calc(30px * var(--fontSizeFactor)) !important; */
 }
@@ -1337,7 +1337,7 @@ p >.clear{
 	border-color: var(--special) !important; 
 	color: hsl(0deg, 0%, 75%) !important; 
 	/* width: 100% !important; */
-	text-align: center;
+	text-align: left;
 	}
 
 /*ONE TO REPLACE THEM ALL?*/
