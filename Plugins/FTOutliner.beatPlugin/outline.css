@@ -82,7 +82,7 @@ html[data-theme='FTOutliner']{
 	--gray: 0, 0%, 80%;
 	--black: 0, 0%, 40%;
 	--white: 0, 0%, 100%; 
-	--special: rgba(0,0,0,0);
+	--special: rgb(229,228,226)
 
 }
 
@@ -102,7 +102,7 @@ html[data-theme='Beat']{
 	--gray: 0, 0%, 59%;
 	--black: 0, 0%, 16%;
 	--white: 0, 0%, 100%;
-	--special: rgba(0,0,0,0);
+	--special: rgb(0,0,0)
 
 	--pageBackground: #222;
 	--hslPageBackground: 0, 0%, 13%;
@@ -396,7 +396,7 @@ flex-basis: 20px !important;
 }
 
 .level1 > .section-heading {
-	background-color: var(--special) !important;
+	background-color: var(--pageBackground) !important;
 	color: white; 
 
 	text-align: center;
